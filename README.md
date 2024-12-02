@@ -24,7 +24,7 @@
 
 <h2>Stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ippotheboxer&show_icons=true&bg_color=FFCDEA&title_color=AD6A90&icon_color=FB9AD1)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ippotheboxer&show_icons=true&bg_color=FFEDFF&title_color=AD6A90&icon_color=FB9AD1)
 
 </div>
 <!--
