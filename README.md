@@ -18,7 +18,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,typescript&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,javascript&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=postgresql&theme=light)](https://skillicons.dev)
 
