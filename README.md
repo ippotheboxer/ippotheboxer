@@ -31,6 +31,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ippotheboxer&show_icons=true&bg_color=FFEDFF&title_color=AD6A90&icon_color=FB9AD1)
 
 <h2>𝓖𝓸𝓸𝓭𝓫𝔂𝓮, 𝓱𝓪𝓿𝓮 𝓪 𝓰𝓸𝓸𝓭 𝓭𝓪𝔂</h2>
+<img src="https://github.com/ippotheboxer/ippotheboxer/blob/main/pinkbeach.gif" />
 <p>⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</p>
 
 </div>
