@@ -1,5 +1,7 @@
 <div align="center">
 <h1>Welcome to my profile</h1>
+
+<img src="https://github.com/ippotheboxer/ippotheboxer/blob/main/header.png?raw=true" />
   
 <img src="https://github.com/ippotheboxer/ippotheboxer/blob/main/tumblr_de77e011d54d8cf8f390d902cd863a87_2a7a827d_540.gif" />
 
