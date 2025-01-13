@@ -24,7 +24,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,prisma)](https://skillicons.dev)
 
 <h2>🌸 Stats</h2>
 
