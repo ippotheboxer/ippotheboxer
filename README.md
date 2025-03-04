@@ -20,7 +20,7 @@
 
 <h2>🌸 Tech Stack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,typescript,redux)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
