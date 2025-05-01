@@ -20,11 +20,11 @@
 
 <h2>🌸 Tech Stack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vite,react,redux,tailwind,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,react,redux,tailwind,typescript,next)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,prisma,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,prisma)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
