@@ -11,10 +11,6 @@
 
 <h2>🌸 About me</h2>
 
-<p>I love all things pink ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆</p>
-<p>I love stardew valley, matcha 🍵, coffee ☕, tiramisu and cake!</p>
-<p>Hobbies: learning new languages, baking, crocheting</p>
-<p>nationality 🇬🇧 🇵🇱 </p>
 <p>🎀 she/her</p>
 <p>🎈🍰 5 feb</p>
 
